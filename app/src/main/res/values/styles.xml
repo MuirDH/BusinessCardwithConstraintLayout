@@ -23,12 +23,6 @@
         <item name="android:layout_marginBottom">@dimen/image_margins</item>
         <item name="android:layout_marginStart">@dimen/image_margins</item>
         <item name="android:scaleType">centerCrop</item>
-        <item name="app:layout_constraintBottom_toBottomOf">parent</item>
-        <item name="app:layout_constraintEnd_toEndOf">parent</item>
-        <item name="app:layout_constraintHorizontal_bias">1.0</item>
-        <item name="app:layout_constraintStart_toStartOf">parent</item>
-        <item name="app:layout_constraintTop_toTopOf">parent</item>
-        <item name="app:layout_constraintVertical_bias">0.0</item>
     </style>
 
 </resources>

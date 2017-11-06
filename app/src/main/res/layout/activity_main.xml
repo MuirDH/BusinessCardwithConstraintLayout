@@ -11,8 +11,14 @@
     <ImageView
         android:id="@+id/background"
         style="@style/ImageStyle"
-        app:srcCompat="@drawable/android"
-        android:contentDescription="@string/an_android_in_the_rain_holding_an_umbrella" />
+        android:contentDescription="@string/an_android_in_the_rain_holding_an_umbrella"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/android" />
 
     <TextView
         android:id="@+id/textView"
@@ -21,12 +27,12 @@
         android:layout_margin="@dimen/title_margin"
         android:background="@android:color/black"
         android:fontFamily="serif"
+        android:gravity="center"
         android:padding="@dimen/title_padding"
         android:text="@string/dragonne_development"
         android:textColor="@android:color/white"
         android:textSize="@dimen/title_text_size"
         android:typeface="normal"
-        android:gravity="center"
         app:layout_constraintBottom_toBottomOf="@+id/background"
         app:layout_constraintEnd_toEndOf="@+id/background"
         app:layout_constraintHorizontal_bias="0.0"

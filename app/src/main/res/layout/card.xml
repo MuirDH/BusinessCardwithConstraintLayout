@@ -9,7 +9,13 @@
         android:id="@+id/background"
         style="@style/ImageStyle"
         android:contentDescription="@string/an_android_in_the_rain_holding_an_umbrella"
-        app:srcCompat="@drawable/android"/>
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/android" />
 
 
     <RelativeLayout
