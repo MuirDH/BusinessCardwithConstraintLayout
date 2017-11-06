@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
  * BusinessCard Created by Muir on 06/11/2017.
  */
 
-public class cardActivity extends AppCompatActivity{
+public class CardActivity extends AppCompatActivity{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

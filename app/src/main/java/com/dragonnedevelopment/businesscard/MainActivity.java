@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         title.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this, cardActivity.class);
+                Intent intent = new Intent(MainActivity.this, CardActivity.class);
                 startActivity(intent);
             }
         });
