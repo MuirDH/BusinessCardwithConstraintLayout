@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_top_margin">12dp</dimen>
+    <dimen name="name_text_size">24sp</dimen>
+    <dimen name="body_text_size">12sp</dimen>
+    <dimen name="zero_margin">0dp</dimen>
+    <dimen name="image_margins">8dp</dimen>
+    <dimen name="title_width">200dp</dimen>
+    <dimen name="title_height">90dp</dimen>
+    <dimen name="title_margin">4dp</dimen>
+    <dimen name="title_padding">8dp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="body_layout_width">250dp</dimen>
+    <dimen name="body_layout_height">190dp</dimen>
+    <dimen name="body_layout_margin">12dp</dimen>
+</resources>

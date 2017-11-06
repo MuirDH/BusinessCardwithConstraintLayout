@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="dragonne_development">Dragonne Development</string>
+    <string name="name">Muir Halleron</string>
+    <string name="job_title">Android Developer</string>
+    <string name="phone_number">44 806 376 5982</string>
+    <string name="website">www.dragonnedevelopment.com</string>
+    <string name="email">muirsemail@gmail.com</string>
+    <string name="address">Street Leeds LS18 5BE</string>
+    <string name="an_android_in_the_rain_holding_an_umbrella">An android in the rain, holding an umbrella</string>
+</resources>
